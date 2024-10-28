@@ -163,6 +163,7 @@ cython_debug/
 
 # 忽略 DATABASE 目录及其所有子文件夹和文件
 /DATABASE/
+/DATABASE_JPG/
 
 # 忽略 .idea 文件夹
 .idea/

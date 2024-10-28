@@ -1,0 +1,1260 @@
+G:/Program/DATABASE\2020\Gao\HuangShuLeng\HuangShuLeng_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\HuangShuLeng\HuangShuLeng_iDose_image.nii.gz
+G:/Program/DATABASE\2020\Gao\HuangShuLeng\HuangShuLeng_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\HuangShuLeng\HuangShuLeng_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\HuangShuLeng\HuangShuLeng_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LanYanLing\LanYanLing_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LanYanLing\LanYanLing_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LanYanLing\LanYanLing_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LanYanLing\LanYanLing_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LianRui\LianRui_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LianRui\LianRui_iDose_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LianRui\LianRui_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LianRui\LianRui_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LianRui\LianRui_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiJiao\LiJiao_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiJiao\LiJiao_iDose_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiJiao\LiJiao_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiJiao\LiJiao_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiJiao\LiJiao_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiXiaoHui\LiXiaoHui_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiXiaoHui\LiXiaoHui_iDose_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiXiaoHui\LiXiaoHui_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiXiaoHui\LiXiaoHui_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2020\Gao\LiXiaoHui\LiXiaoHui_V_image.nii.gz
+G:/Program/DATABASE\2020\Liu\YiFeng\YiFeng_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YiFeng\YiFeng_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YiFeng\YiFeng_602_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YiFeng\YiFeng_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YiFeng\YiFeng_705_MonoE45keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YuanJiaYing\YuanJiaYing_301_iDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\YuanJiaYing\YuanJiaYing_601_AiDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\YuanJiaYing\YuanJiaYing_602_MonoE45keVASpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\YuanJiaYing\YuanJiaYing_701_ViDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\YuanJiaYing\YuanJiaYing_705_MonoE45keVVSpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\YuGuiPing\YuGuiPing_301_iDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2020\Liu\YuGuiPing\YuGuiPing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YuGuiPing\YuGuiPing_602_MonoE45keVAlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YuGuiPing\YuGuiPing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YuGuiPing\YuGuiPing_705_MonoE45keVVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\YuMingSheng\YuMingSheng_201_iDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\YuMingSheng\YuMingSheng_501_AiDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\YuMingSheng\YuMingSheng_502_MonoE45keVAlocatorSpectral(3)_1mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\YuMingSheng\YuMingSheng_601_ViDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\YuMingSheng\YuMingSheng_605_MonoE45keVVMonoE45Spectral(3)_1mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangJunJun\ZhangJunJun_301_iDose(3)_2mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangJunJun\ZhangJunJun_601_AiDose(3)_2mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangJunJun\ZhangJunJun_602_MonoE45keVASpectral(4)_1mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangJunJun\ZhangJunJun_701_ViDose(3)_2mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangJunJun\ZhangJunJun_705_MonoE45keVVSpectral(4)_1mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangQiLin\ZhangQiLin_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangQiLin\ZhangQiLin_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangQiLin\ZhangQiLin_702_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangQiLin\ZhangQiLin_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangQiLin\ZhangQiLin_805_MonoE45keVVSpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangWeiHong\ZhangWeiHong_303_GSI1.25mmC-_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangWeiHong\ZhangWeiHong_306_GSINeck1.25mmCdataA_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangWeiHong\ZhangWeiHong_308_GSINeck1.25mmCdataV_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangZiJie\ZhangZiJie_303_GSINeck1.25mmC_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangZiJie\ZhangZiJie_304_GSINeck1.25mmCdataA_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhangZiJie\ZhangZiJie_306_GSINeck1.25mmCdataV_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhaoQiong\ZhaoQiong_202_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhaoQiong\ZhaoQiong_501_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhaoQiong\ZhaoQiong_502_MonoE45keVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhaoQiong\ZhaoQiong_601_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhengLiFang\ZhengLiFang_301_iDose(3)_3mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhengLiFang\ZhengLiFang_601_AiDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhengLiFang\ZhengLiFang_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhengLiFang\ZhengLiFang_701_ViDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhengLiFang\ZhengLiFang_705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhouHuiLan\ZhouHuiLan_401_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhouHuiLan\ZhouHuiLan_701_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhouHuiLan\ZhouHuiLan_702_MonoE45keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhouHuiLan\ZhouHuiLan_801_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Liu\ZhouHuiLan\ZhouHuiLan_805_MonoE45keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\301_iDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongQiuQin\705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\201_iDose(3)_2mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\501_AiDose(3)_2mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\505_MonoE40keVASpectral(3)_2mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\601_ViDose(3)_2mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\603_MonoE50keVVSpectral(4)_1mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\SongWeiNa\604_MonoE40keVVSpectral(3)_2mm_Neck C 3X3.nii.gz
+G:/Program/DATABASE\2020\Ni\WangDongXiang\301_iDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangDongXiang\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangDongXiang\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangDongXiang\705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\602_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\702_ViDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangWenXing\705_MonoE45keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangXiuLian\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangXiuLian\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangXiuLian\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WangXiuLian\805_MonoE45keVMonoE45Spectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WengNianPing\201_iDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\WengNianPing\501_AiDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\WengNianPing\601_ViDose(3)_2mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\WengNianPing\605_MonoE45keVMonoE45Spectral(3)_1mm_NECK C2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\WuQiuPing\401_iDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WuQiuPing\501_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WuQiuPing\601_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WuQiuPing\605_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\WuWenFu\201_iDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2020\Ni\WuWenFu\501_AiDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2020\Ni\WuWenFu\601_ViDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2020\Ni\WuWenFu\605_MonoE45keVMonoE45Spectral(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\202_iDose(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\502_MonoE45keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\602_ViDose(3)_3mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\XuDaMei\605_MonoE45keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2020\Ni\YangCuiLan\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangCuiLan\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangCuiLan\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangCuiLan\705_MonoE45keVMonoE45Spectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangJingXian\301_iDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangJingXian\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangJingXian\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YangJingXian\705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YeLiLi\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YeLiLi\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YeLiLi\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Ni\YeLiLi\805_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\ChenZhiQiang\ChenZhiQiang_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\ChenZhiQiang\ChenZhiQiang_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\ChenZhiQiang\ChenZhiQiang_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\ChenZhiQiang\ChenZhiQiang_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\ChenZhiQiang\ChenZhiQiang_705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GongYanShu\GongYanShu_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GongYanShu\GongYanShu_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GongYanShu\GongYanShu_702_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GongYanShu\GongYanShu_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GongYanShu\GongYanShu_805_MonoE45keVMonoE45Spectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GuoYiFan\GuoYiFan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GuoYiFan\GuoYiFan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GuoYiFan\GuoYiFan_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GuoYiFan\GuoYiFan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\GuoYiFan\GuoYiFan_705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HongJianMin\HongJianMin_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HongJianMin\HongJianMin_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HongJianMin\HongJianMin_702_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HongJianMin\HongJianMin_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HongJianMin\HongJianMin_805_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangChangKun\HuangChangKun_301_iDose(3)_3mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangChangKun\HuangChangKun_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangChangKun\HuangChangKun_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangChangKun\HuangChangKun_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangChangKun\HuangChangKun_705_MonoE45keVMonoE45Spectral(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangJingXu\HuangJingXu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangJingXu\HuangJingXu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangJingXu\HuangJingXu_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangJingXu\HuangJingXu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2020\Xiang\HuangJingXu\HuangJingXu_705_MonoE45keVMonoE45Spectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Gao\HongYingMing\HongYingMing_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HongYingMing\HongYingMing_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HongYingMing\HongYingMing_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HongYingMing\HongYingMing_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HongYingMing\HongYingMing_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChangKun\HuangChangKun_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChangKun\HuangChangKun_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChangKun\HuangChangKun_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChangKun\HuangChangKun_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChangKun\HuangChangKun_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChao\HuangChao_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChao\HuangChao_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChao\HuangChao_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChao\HuangChao_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangChao\HuangChao_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangHui\HuangHui_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangHui\HuangHui_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangHui\HuangHui_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangHui\HuangHui_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangHui\HuangHui_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangLiHua\HuangLiHua_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangLiHua\HuangLiHua_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangLiHua\HuangLiHua_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangLiHua\HuangLiHua_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangLiHua\HuangLiHua_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangQingJun\HuangQingJun_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangQingJun\HuangQingJun_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangQingJun\HuangQingJun_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangQingJun\HuangQingJun_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangQingJun\HuangQingJun_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangXueRenFei\HuangXueRenFei_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangXueRenFei\HuangXueRenFei_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangXueRenFei\HuangXueRenFei_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangXueRenFei\HuangXueRenFei_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuangXueRenFei\HuangXueRenFei_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuXueLian\HuXueLian_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuXueLian\HuXueLian_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuXueLian\HuXueLian_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuXueLian\HuXueLian_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\HuXueLian\HuXueLian_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\KeLiYu\KeLiYu_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\KeLiYu\KeLiYu_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\KeLiYu\KeLiYu_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\KeLiYu\KeLiYu_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\KeLiYu\KeLiYu_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LaiLuNa\LaiLuNa_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LaiLuNa\LaiLuNa_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LaiLuNa\LaiLuNa_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LaiLuNa\LaiLuNa_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LaiLuNa\LaiLuNa_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiaoSongYuan\LiaoSongYuan_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiaoSongYuan\LiaoSongYuan_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiaoSongYuan\LiaoSongYuan_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiaoSongYuan\LiaoSongYuan_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiaoSongYuan\LiaoSongYuan_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiFuLing\LiFuLing_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiFuLing\LiFuLing_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiFuLing\LiFuLing_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiFuLing\LiFuLing_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiFuLing\LiFuLing_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiHeXin\LiHeXin_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiHeXin\LiHeXin_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiHeXin\LiHeXin_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiHeXin\LiHeXin_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiHeXin\LiHeXin_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiJia\LiJia_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiJia\LiJia_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiJia\LiJia_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiJia\LiJia_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiJia\LiJia_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLanXin\LiLanXin_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLanXin\LiLanXin_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLanXin\LiLanXin_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLanXin\LiLanXin_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLanXin\LiLanXin_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLiNa\LiLiNa_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLiNa\LiLiNa_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLiNa\LiLiNa_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLiNa\LiLiNa_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLiNa\LiLiNa_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLong\LiLong_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLong\LiLong_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLong\LiLong_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLong\LiLong_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiLong\LiLong_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LinJinBiao\LinJinBiao_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LinJinBiao\LinJinBiao_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LinJinBiao\LinJinBiao_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LinJinBiao\LinJinBiao_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LinJinBiao\LinJinBiao_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuGuoXing\LiuGuoXing_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuGuoXing\LiuGuoXing_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuGuoXing\LiuGuoXing_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuGuoXing\LiuGuoXing_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuGuoXing\LiuGuoXing_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHaiJu\LiuHaiJu_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHaiJu\LiuHaiJu_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHaiJu\LiuHaiJu_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHaiJu\LiuHaiJu_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHaiJu\LiuHaiJu_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHanLin\LiuHanLin_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHanLin\LiuHanLin_iDose_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHanLin\LiuHanLin_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHanLin\LiuHanLin_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2021\Gao\LiuHanLin\LiuHanLin_V_image.nii.gz
+G:/Program/DATABASE\2021\Liu\WuYaChun\WuYaChun601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\WuYaChun\WuYaChun_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\WuYaChun\WuYaChun_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\WuYaChun\WuYaChun_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\WuYaChun\WuYaChun_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XiangXiaoMing\XiangXiaoMing_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\XiangXiaoMing\XiangXiaoMing_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\XiangXiaoMing\XiangXiaoMing_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\XiangXiaoMing\XiangXiaoMing_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\XiangXiaoMing\XiangXiaoMing_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\XiaoYuHong\XiaoYuHong_201_iDose(3)_2mm_Neck C 2X2_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XiaoYuHong\XiaoYuHong_501_AiDose(3)_2mm_Neck C 2X2_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XiaoYuHong\XiaoYuHong_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XiaoYuHong\XiaoYuHong_601_ViDose(3)_2mm_Neck C 2X2_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XiaoYuHong\XiaoYuHong_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XieWanYu\XieWanYu_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XieWanYu\XieWanYu_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XieWanYu\XieWanYu_702_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XieWanYu\XieWanYu_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XieWanYu\XieWanYu_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XingShuFei\XingShuFei_301_iDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XingShuFei\XingShuFei_601_AiDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XingShuFei\XingShuFei_604_MonoE40keVASpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XingShuFei\XingShuFei_701_ViDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XingShuFei\XingShuFei_705_MonoE40keVVSpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XuLiQing\XuLiQing_401_iDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XuLiQing\XuLiQing_701_AiDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XuLiQing\XuLiQing_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\XuLiQing\XuLiQing_801_ViDose(3)_2mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\XuLiQing\XuLiQing_805_MonoE40keVVSpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\YangFan\YangFan_401_iDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangFan\YangFan_701_AiDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangFan\YangFan_704_MonoE40keVASpectral(4)_1mm_Chest normal_1.nii.gz
+G:/Program/DATABASE\2021\Liu\YangFan\YangFan_801_ViDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangFan\YangFan_805_MonoE40keVVSpectral(4)_1mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJing\YangJing_401_iDose(3)_2mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJing\YangJing_701_AiDose(3)_2mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJing\YangJing_704_MonoE40keVASpectral(4)_1mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJing\YangJing_801_ViDose(3)_2mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJing\YangJing_805_MonoE40keVVSpectral(4)_1mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJuLan\YangJuLan_401_iDose(3)_2mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJuLan\YangJuLan_701_AiDose(3)_2mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJuLan\YangJuLan_704_MonoE40keVASpectral(4)_1mm_Chest normal_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJuLan\YangJuLan_801_ViDose(3)_2mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\YangJuLan\YangJuLan_805_MonoE40keVVSpectral(4)_1mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\YangShuHui\YangShuHui_301_iDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangShuHui\YangShuHui_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\YangShuHui\YangShuHui_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\YangShuHui\YangShuHui_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\YangShuHui\YangShuHui_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Liu\YangZhe\YangZhe_201_iDose(3)_2mm_Neck C 2X2_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangZhe\YangZhe_501_AiDose(3)_2mm_Neck C 2X2_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangZhe\YangZhe_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangZhe\YangZhe_601_ViDose(3)_2mm_Neck C 2X2_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YangZhe\YangZhe_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2_2.nii.gz
+G:/Program/DATABASE\2021\Liu\YanXiFeng\YanXiFeng_201_iDose(3)_2mm_Neck C 2X2_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YanXiFeng\YanXiFeng_501_AiDose(3)_2mm_Neck C 2X2_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YanXiFeng\YanXiFeng_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YanXiFeng\YanXiFeng_601_ViDose(3)_2mm_Neck C 2X2_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YanXiFeng\YanXiFeng_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2_3.nii.gz
+G:/Program/DATABASE\2021\Liu\YeXuYang\YeXuYang_401_iDose(3)_2mm_Chest normal_5.nii.gz
+G:/Program/DATABASE\2021\Liu\YeXuYang\YeXuYang_701_AiDose(3)_2mm_Chest normal_5.nii.gz
+G:/Program/DATABASE\2021\Liu\YeXuYang\YeXuYang_704_MonoE40keVASpectral(4)_1mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\YeXuYang\YeXuYang_801_ViDose(3)_2mm_Chest normal_5.nii.gz
+G:/Program/DATABASE\2021\Liu\YeXuYang\YeXuYang_805_MonoE40keVVSpectral(4)_1mm_Chest normal_5.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangGuiLing\ZhangGuiLing_401_iDose(3)_2mm_Chest normal_6.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangGuiLing\ZhangGuiLing_701_AiDose(3)_2mm_Chest normal_6.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangGuiLing\ZhangGuiLing_704_MonoE40keVASpectral(4)_1mm_Chest normal_5.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangGuiLing\ZhangGuiLing_801_ViDose(3)_2mm_Chest normal_6.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangGuiLing\ZhangGuiLing_805_MonoE40keVVSpectral(4)_1mm_Chest normal_6.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangXiuHua\ZhangXiuHua_201_iDose(3)_2mm_Neck C 2X2_4.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangXiuHua\ZhangXiuHua_501_AiDose(3)_2mm_Neck C 2X2_4.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangXiuHua\ZhangXiuHua_502_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangXiuHua\ZhangXiuHua_601_ViDose(3)_2mm_Neck C 2X2_4.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhangXiuHua\ZhangXiuHua_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2_4.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhanHongHong\ZhanHongHong_401_iDose(3)_2mm_Chest normal_7.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhanHongHong\ZhanHongHong_701_AiDose(3)_2mm_Chest normal_7.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhanHongHong\ZhanHongHong_704_MonoE40keVASpectral(4)_1mm_Chest normal_6.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhanHongHong\ZhanHongHong_801_ViDose(3)_2mm_Chest normal_7.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhanHongHong\ZhanHongHong_805_MonoE40keVVSpectral(4)_1mm_Chest normal_7.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhaoAnFeng\ZhaoAnFeng_401_iDose(3)_2mm_Chest normal_8.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhaoAnFeng\ZhaoAnFeng_701_AiDose(3)_2mm_Chest normal_8.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhaoAnFeng\ZhaoAnFeng_704_MonoE40keVASpectral(4)_1mm_Chest normal_7.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhaoAnFeng\ZhaoAnFeng_801_ViDose(3)_2mm_Chest normal_8.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhaoAnFeng\ZhaoAnFeng_805_MonoE40keVVSpectral(4)_1mm_Chest normal_8.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengJunYing\ZhengJunYing_401_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengJunYing\ZhengJunYing_404_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengJunYing\ZhengJunYing_501_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengJunYing\ZhengJunYing_505_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengWei\ZhengWei_401_iDose(3)_2mm_Chest normal_9.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengWei\ZhengWei_701_AiDose(3)_2mm_Chest normal_9.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengWei\ZhengWei_704_MonoE40keVASpectral(4)_1mm_Chest normal_8.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengWei\ZhengWei_801_ViDose(3)_2mm_Chest normal_9.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhengWei\ZhengWei_805_MonoE40keVVSpectral(4)_1mm_Chest normal_9.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhongXing\ZhongXing_301_iDose(3)_2mm_Chest normal_4.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhongXing\ZhongXing_601_AiDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhongXing\ZhongXing_604_MonoE40keVASpectral(4)_1mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhongXing\ZhongXing_701_ViDose(3)_2mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Liu\ZhongXing\ZhongXing_705_MonoE40keVVSpectral(4)_1mm_Chest normal_2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuXiaoHong\805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_202_iDose(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiuYaPao\LiuYaPao_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiWenBiao\LiWenBiao_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiYingFang\LiYingFang_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LiZhiJian\LiZhiJian_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_201_Lung,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_202_Chest,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_203_ChestCor,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_204_ChestSag,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_301_Lung,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_302_Chest,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_303_ChestCor,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_304_ChestSag,iDose(3)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_401_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_701_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_702_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_703_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_801_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_802_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuCaiYun\LuCaiYun_803_iDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_202_iDose(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LuJunMei\LuJunMei_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvJianGuo\LvJianGuo_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_202_iDose(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_502_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\LvXuLiang\LvXuLiang_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_1_Scout_360.000000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_2_Chest1.25mmSTND_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_303_GSI1.25mmC-_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_304_GSIDATA1.25mmC-_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_305_GSINeck1.25mm+C_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_306_GSINeck1.25mm+CdataA_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_307_GSINeck1.25mmC+_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_308_GSINeck1.25mmC+dataV_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_309_ProcessedImages_1.25mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_310_ProcessedImages_1.25mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\NiQianMei\NiQianMei_3_Scout_261.000000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_1_Scout_360.000000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_2_Chest1.25mmSTND_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_303_GSI1.25mmC-_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_304_GSIDATA1.25mmC-_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_305_GSINeck1.25mm+C_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_306_GSINeck1.25mm+CdataA_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_307_GSINeck1.25mmC+_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_308_GSINeck1.25mmC+dataV_1.250000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_309_ProcessedImages_0.6249983907mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_310_ProcessedImages_0.6249983907mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_312_ProcessedImages_1.25mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_313_ProcessedImages_1.25mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\ShenYuKai\ShenYuKai_3_Scout_327.000000mm_1.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_1_Scout_510.000000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_200_ProcessedImages_1.250003934mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_202_ProcessedImages_1.250003934mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_2_Chest1.25mmSTND_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_303_GSI1.25mmC-_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_304_GSIDATA1.25mmC-_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_305_GSINeck1.25mm+C_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_306_GSINeck1.25mm+CdataA_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_307_GSINeck1.25mmC+_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_308_GSINeck1.25mmC+dataV_1.250000mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_309_ProcessedImages_1.250000119mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SongQiuLing\SongQiuLing_310_ProcessedImages_1.250000119mm_C+.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\SunYaNuan\SunYaNuan_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\TangLiJuan\TangLiJuan_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_602_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangManZhao\WangManZhao_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangWenYuan\WangWenYuan_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_603_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WangYinZhu\WangYinZhu_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuCaiHong\WuCaiHong_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuQiang\WuQiang_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_202_iDose(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_601_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_604_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_701_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Ni\WuXingLe\WuXingLe_705_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiLiPing\CaiLiPing_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiLiPing\CaiLiPing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiLiPing\CaiLiPing_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiLiPing\CaiLiPing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiLiPing\CaiLiPing_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiZhenLin\CaiZhenLin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiZhenLin\CaiZhenLin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiZhenLin\CaiZhenLin_602_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiZhenLin\CaiZhenLin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaiZhenLin\CaiZhenLin_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaoDongHui\CaoDongHui_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaoDongHui\CaoDongHui_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaoDongHui\CaoDongHui_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaoDongHui\CaoDongHui_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CaoDongHui\CaoDongHui_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CengZhiYi\CengZhiYi_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CengZhiYi\CengZhiYi_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CengZhiYi\CengZhiYi_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CengZhiYi\CengZhiYi_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\CengZhiYi\CengZhiYi_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenBin\ChenBin_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenBin\ChenBin_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenBin\ChenBin_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenBin\ChenBin_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenBin\ChenBin_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChengSiMin\ChengSiMin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChengSiMin\ChengSiMin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChengSiMin\ChengSiMin_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChengSiMin\ChengSiMin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChengSiMin\ChengSiMin_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenHuiYing\ChenHuiYing_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenHuiYing\ChenHuiYing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenHuiYing\ChenHuiYing_702_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenHuiYing\ChenHuiYing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenHuiYing\ChenHuiYing_805_MonoE45keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenLin\ChenLin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenLin\ChenLin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenLin\ChenLin_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenLin\ChenLin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenLin\ChenLin_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenQingMei\ChenQingMei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenQingMei\ChenQingMei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenQingMei\ChenQingMei_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenQingMei\ChenQingMei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenQingMei\ChenQingMei_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenShuDong\ChenShuDong_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenShuDong\ChenShuDong_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenShuDong\ChenShuDong_502_MonoE45keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenShuDong\ChenShuDong_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenShuDong\ChenShuDong_605_MonoE45keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoFei\ChenXiaoFei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoFei\ChenXiaoFei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoFei\ChenXiaoFei_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoFei\ChenXiaoFei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoFei\ChenXiaoFei_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoPing\ChenXiaoPing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoPing\ChenXiaoPing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoPing\ChenXiaoPing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoPing\ChenXiaoPing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoPing\ChenXiaoPing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoYan\ChenXiaoYan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoYan\ChenXiaoYan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoYan\ChenXiaoYan_602_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoYan\ChenXiaoYan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiaoYan\ChenXiaoYan_705_MonoE45keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiuHong\ChenXiuHong_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiuHong\ChenXiuHong_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiuHong\ChenXiuHong_502_MonoE45keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiuHong\ChenXiuHong_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\ChenXiuHong\ChenXiuHong_605_MonoE45keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FangYiJun\FangYiJun_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FangYiJun\FangYiJun_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FangYiJun\FangYiJun_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FangYiJun\FangYiJun_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FangYiJun\FangYiJun_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2021\Xiang\FengBingFeng\FengBingFeng_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\FengBingFeng\FengBingFeng_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\FengBingFeng\FengBingFeng_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\FengBingFeng\FengBingFeng_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\FengBingFeng\FengBingFeng_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiFan\GuoYiFan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiFan\GuoYiFan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiFan\GuoYiFan_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiFan\GuoYiFan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiFan\GuoYiFan_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiJing\GaoYiJing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiJing\GaoYiJing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiJing\GaoYiJing_602_MonoE45keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiJing\GaoYiJing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\GaoYiJing\GaoYiJing_705_MonoE45keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HeShaoYan\HeShaoYan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HeShaoYan\HeShaoYan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HeShaoYan\HeShaoYan_602_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HeShaoYan\HeShaoYan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HeShaoYan\HeShaoYan_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HongPingPing\HongPingPing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HongPingPing\HongPingPing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HongPingPing\HongPingPing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HongPingPing\HongPingPing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2021\Xiang\HongPingPing\HongPingPing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Gao\HeShuHua\HeShuHua_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HeShuHua\HeShuHua_703_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HeShuHua\HeShuHua_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HeShuHua\HeShuHua_803_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HeShuHua\HeShuHua_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLiChuan\HongLiChuan_603_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLiChuan\HongLiChuan_604_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLiChuan\HongLiChuan_703_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLiChuan\HongLiChuan_705_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLingLing\HongLingLing_302_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLingLing\HongLingLing_603_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLingLing\HongLingLing_604_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongLingLing\HongLingLing_703_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongShangYou\HongShangYou_603_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongShangYou\HongShangYou_604_MonoE40keV_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HongShangYou\HongShangYou_703_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangJing\HuangJing_201_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangJing\HuangJing_501_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangJing\HuangJing_504_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangJing\HuangJing_601_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangJing\HuangJing_603_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiFeng\HuangLiFeng_301_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiFeng\HuangLiFeng_404_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiFeng\HuangLiFeng_405_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiFeng\HuangLiFeng_505_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiQing\HuangLiQing_201_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiQing\HuangLiQing_501_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiQing\HuangLiQing_504_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiQing\HuangLiQing_601_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuangLiQing\HuangLiQing_603_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuYongHui\HuYongHui_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuYongHui\HuYongHui_804_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuYongHui\HuYongHui_903_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\HuYongHui\HuYongHui_905_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\KeXiaoHong\KeXiaoHong_504_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\KeXiaoHong\KeXiaoHong_605_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LaiQingHua\LaiQingHua_301_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LaiQingHua\LaiQingHua_604_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LaiQingHua\LaiQingHua_701_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LaiQingHua\LaiQingHua_703_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LianYuYing\LianYuYing_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LianYuYing\LianYuYing_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LianYuYing\LianYuYing_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LianYuYing\LianYuYing_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiGuiLuo\LiGuiLuo_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiGuiLuo\LiGuiLuo_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiGuiLuo\LiGuiLuo_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiGuiLuo\LiGuiLuo_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiGuiLuo\LiGuiLuo_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiJinHui\LiJinHui_601_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiJinHui\LiJinHui_602_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiJinHui\LiJinHui_603_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiJinHui\LiJinHui_701_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiMeiHuan\LiMeiHuan_601_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiMeiHuan\LiMeiHuan_701_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiMeiHuan\LiMeiHuan_705_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinBiLan\LinBiLan_201_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinBiLan\LinBiLan_501_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinBiLan\LinBiLan_601_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinHong\LinHong805_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinHong\LinHong805_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinHong\LinHong805_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinHong\LinHong805_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinHong\LinHong805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuGuai\LinShuGuai_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuGuai\LinShuGuai_501_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuGuai\LinShuGuai_504_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuGuai\LinShuGuai_601_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuGuai\LinShuGuai_605_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuYing\LinShuYing_401_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuYing\LinShuYing_501_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuYing\LinShuYing_504_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuYing\LinShuYing_601_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinShuYing\LinShuYing_605_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXiaoTing\LinXiaoTing_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXiaoTing\LinXiaoTing_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXiaoTing\LinXiaoTing_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXiaoTing\LinXiaoTing_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXiaoTing\LinXiaoTing_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXinYu\LinXinYu_401_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXinYu\LinXinYu_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXinYu\LinXinYu_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXinYu\LinXinYu_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LinXinYu\LinXinYu_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiYiHui\LiYiHui_402_plain_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiYiHui\LiYiHui_701_artery_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiYiHui\LiYiHui_704_MonoE40keV_A_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiYiHui\LiYiHui_801_vein_image.nii.gz
+G:/Program/DATABASE\2022\Gao\LiYiHui\LiYiHui_805_MonoE40keV_V_image.nii.gz
+G:/Program/DATABASE\2022\Liu\WangXueYi\WangXueYi_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WangXueYi\WangXueYi_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WangXueYi\WangXueYi_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WangXueYi\WangXueYi_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WangXueYi\WangXueYi_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WeiFuYu\WeiFuYu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WeiFuYu\WeiFuYu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WeiFuYu\WeiFuYu_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WeiFuYu\WeiFuYu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WeiFuYu\WeiFuYu_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuQiuPing\WuQiuPing_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuQiuPing\WuQiuPing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuQiuPing\WuQiuPing_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuQiuPing\WuQiuPing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuQiuPing\WuQiuPing_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuSuFen\WuSuFen_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuSuFen\WuSuFen_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuSuFen\WuSuFen_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuSuFen\WuSuFen_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuSuFen\WuSuFen_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuXiuMei\WuXiuMei_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuXiuMei\WuXiuMei_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuXiuMei\WuXiuMei_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuXiuMei\WuXiuMei_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\WuXiuMei\WuXiuMei_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\XieYaTing\XieYaTing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\XieYaTing\XieYaTing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\XieYaTing\XieYaTing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\XieYaTing\XieYaTing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\XieYaTing\XieYaTing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangChunLiu\YangChunLiu_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangChunLiu\YangChunLiu_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangChunLiu\YangChunLiu_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangChunLiu\YangChunLiu_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangChunLiu\YangChunLiu_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangLingMei\YangLingMei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YangLingMei\YangLingMei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YangLingMei\YangLingMei_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YangLingMei\YangLingMei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YangLingMei\YangLingMei_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YangXiaXia\YangXiaXia_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangXiaXia\YangXiaXia_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangXiaXia\YangXiaXia_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangXiaXia\YangXiaXia_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YangXiaXia\YangXiaXia_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YaoZhenYing\YaoZhenYing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YaoZhenYing\YaoZhenYing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YaoZhenYing\YaoZhenYing_605_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YaoZhenYing\YaoZhenYing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YaoZhenYing\YaoZhenYing_706_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\YeChengZuo\YeChengZuo_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeChengZuo\YeChengZuo_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeChengZuo\YeChengZuo_504_MonoE50keVAMonoE50Spectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeChengZuo\YeChengZuo_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeChengZuo\YeChengZuo_603_MonoE40keVVMonoE50Spectral(0)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeZhiQiang\YeZhiQiang_1001_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeZhiQiang\YeZhiQiang_1004_MonoE50keVAMonoE50Spectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeZhiQiang\YeZhiQiang_1101_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeZhiQiang\YeZhiQiang_1103_MonoE40keVVMonoE50Spectral(0)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\YeZhiQiang\YeZhiQiang_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangCongJia\ZhangCongJia_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangCongJia\ZhangCongJia_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangCongJia\ZhangCongJia_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangCongJia\ZhangCongJia_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangCongJia\ZhangCongJia_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangMinJu\ZhangMinJu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangMinJu\ZhangMinJu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangMinJu\ZhangMinJu_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangMinJu\ZhangMinJu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangMinJu\ZhangMinJu_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangShu\ZhangShu_501_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangShu\ZhangShu_801_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangShu\ZhangShu_804_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangShu\ZhangShu_901_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangShu\ZhangShu_905_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangYuanMei\ZhangYuanMei_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangYuanMei\ZhangYuanMei_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangYuanMei\ZhangYuanMei_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangYuanMei\ZhangYuanMei_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhangYuanMei\ZhangYuanMei_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhengYaQian\ZhengYaQian_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhengYaQian\ZhengYaQian_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhengYaQian\ZhengYaQian_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhengYaQian\ZhengYaQian_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhengYaQian\ZhengYaQian_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuangTingHou\ZhuangTingHou_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuangTingHou\ZhuangTingHou_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuangTingHou\ZhuangTingHou_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuoLiuZhu\ZhuoLiuZhu_301_iDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuoLiuZhu\ZhuoLiuZhu_601_AiDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuoLiuZhu\ZhuoLiuZhu_604_MonoE50keVAMonoE50Spectral(4)_1mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuoLiuZhu\ZhuoLiuZhu_701_ViDose(3)_2mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2022\Liu\ZhuoLiuZhu\ZhuoLiuZhu_703_MonoE40keVVMonoE50Spectral(0)_1mm_Chest C-C.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYe\LinYe_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYe\LinYe_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYe\LinYe_605_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYe\LinYe_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYe\LinYe_706_MonoE50keVVMonoE50Spectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinYuBin\LinYuBin_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LinZuRong\LinZuRong_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuCuiZhen\LiuCuiZhen_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuHaiJu\LiuHaiJu_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoLing\LiuXiaoLing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiuXiaoRong\LiuXiaoRong_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LiYiHui\LiYiHui_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\LvYanYan\LvYanYan_301_NeckiDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2022\Ni\LvYanYan\LvYanYan_401_NeckAiDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2022\Ni\LvYanYan\LvYanYan_501_NeckViDose(2)_2mm_ZS Chest.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_701_A+,iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_704_MonoE40keV,A+,Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_801_V+,iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_805_MonoE40keV,V+,Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuJianZhou\QiuJianZhou_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\QiuLin\QiuLin_505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiHui\ShiHui_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiHui\ShiHui_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiHui\ShiHui_705_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiHui\ShiHui_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiHui\ShiHui_806_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiRenQiang\ShiRenQiang_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiRenQiang\ShiRenQiang_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiRenQiang\ShiRenQiang_605_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiRenQiang\ShiRenQiang_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\ShiRenQiang\ShiRenQiang_706_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuQiuPeng\SuQiuPeng_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuYaTing\SuYaTing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuYaTing\SuYaTing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\SuYaTing\SuYaTing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_703_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_803_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangChunXiang\WangChunXiang_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_603_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_703_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangHong\WangHong_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangLiLi\WangLiLi_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangLiLi\WangLiLi_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangLiLi\WangLiLi_705_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangLiLi\WangLiLi_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Ni\WangLiLi\WangLiLi_805_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CaiXueYing\CaiXueYing_402_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CaiXueYing\CaiXueYing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CaiXueYing\CaiXueYing_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CaiXueYing\CaiXueYing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CaiXueYing\CaiXueYing_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengHongQiang\CengHongQiang_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengHongQiang\CengHongQiang_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengHongQiang\CengHongQiang_704_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengHongQiang\CengHongQiang_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengHongQiang\CengHongQiang_805_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengYiShan\CengYiShan_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengYiShan\CengYiShan_502_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengYiShan\CengYiShan_504_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengYiShan\CengYiShan_601_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\CengYiShan\CengYiShan_605_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChangJiaYin\ChangJiaYin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChangJiaYin\ChangJiaYin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChangJiaYin\ChangJiaYin_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChangJiaYin\ChangJiaYin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChangJiaYin\ChangJiaYin_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBing\ChenBing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBing\ChenBing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBing\ChenBing_605_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBing\ChenBing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBing\ChenBing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBiZhen\ChenBiZhen_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBiZhen\ChenBiZhen_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBiZhen\ChenBiZhen_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBiZhen\ChenBiZhen_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenBiZhen\ChenBiZhen_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenCaiZhu\ChenCaiZhu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenCaiZhu\ChenCaiZhu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenCaiZhu\ChenCaiZhu_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenCaiZhu\ChenCaiZhu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenCaiZhu\ChenCaiZhu_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenDan\ChenDan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenDan\ChenDan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenDan\ChenDan_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenDan\ChenDan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenDan\ChenDan_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenWei\ChenWei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenWei\ChenWei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenWei\ChenWei_504_MonoE40keVASpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenWei\ChenWei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenWei\ChenWei_605_MonoE40keVVSpectral(4)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenXiaoFei\ChenXiaoFei_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenXiaoFei\ChenXiaoFei_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenXiaoFei\ChenXiaoFei_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenXiaoFei\ChenXiaoFei_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenXiaoFei\ChenXiaoFei_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYan\ChenYan_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYan\ChenYan_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYan\ChenYan_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYan\ChenYan_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYan\ChenYan_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYuJia\ChenYuJia_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYuJia\ChenYuJia_401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYuJia\ChenYuJia_404_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYuJia\ChenYuJia_501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\ChenYuJia\ChenYuJia_503_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\DingChenHong\DingChenHong_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\DingChenHong\DingChenHong_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\DingChenHong\DingChenHong_605_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\DingChenHong\DingChenHong_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\DingChenHong\DingChenHong_706_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FengMeiJin\FengMeijin_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FengMeiJin\FengMeijin_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FengMeiJin\FengMeijin_605_MonoE50keVAMonoE50Spectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FengMeiJin\FengMeijin_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FengMeiJin\FengMeijin_706_MonoE40keVVMonoE50Spectral(0)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FuWenJing\FuWenJing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FuWenJing\FuWenJing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FuWenJing\FuWenJing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FuWenJing\FuWenJing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\FuWenJing\FuWenJing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GongHuiDuan\GongHuiDuan_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GongHuiDuan\GongHuiDuan_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GongHuiDuan\GongHuiDuan_704_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GongHuiDuan\GongHuiDuan_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GongHuiDuan\GongHuiDuan_805_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GuoHuanQing\GuoHuanQing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GuoHuanQing\GuoHuanQing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GuoHuanQing\GuoHuanQing_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GuoHuanQing\GuoHuanQing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\GuoHuanQing\GuoHuanQing_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\HeJianSheng\HeJianSheng_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\HeJianSheng\HeJianSheng_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\HeJianSheng\HeJianSheng_604_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\HeJianSheng\HeJianSheng_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2022\Xiang\HeJianSheng\HeJianSheng_705_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Gao\LuTaiPing\LuTaiPing_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\LuTaiPing\LuTaiPing_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\LuTaiPing\LuTaiPing_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\MaDongEr\MaDongEr_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\MaDongEr\MaDongEr_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\MaDongEr\MaDongEr_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\MaDongEr\MaDongEr_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\MaDongEr\MaDongEr_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PanYi\PanYi_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PanYi\PanYi_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PanYi\PanYi_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PengMeiRen\PengMeiRen_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PengMeiRen\PengMeiRen_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PengMeiRen\PengMeiRen_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PengMeiRen\PengMeiRen_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\PengMeiRen\PengMeiRen_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\RaoCuiLian\RaoCuiLian_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\RaoCuiLian\RaoCuiLian_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\RaoCuiLian\RaoCuiLian_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\RaoCuiLian\RaoCuiLian_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\RaoCuiLian\RaoCuiLian_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuSuLi\SuSuLi_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuSuLi\SuSuLi_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuSuLi\SuSuLi_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuSuLi\SuSuLi_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuSuLi\SuSuLi_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuXiuMei\SuXiuMei_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuXiuMei\SuXiuMei_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuXiuMei\SuXiuMei_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuXiuMei\SuXiuMei_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\SuXiuMei\SuXiuMei_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\TianLiMei\TianLiMei_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\TianLiMei\TianLiMei_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\TianLiMei\TianLiMei_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\TianLiMei\TianLiMei_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\TianLiMei\TianLiMei_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangAiZhi\WangAiZhi_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangAiZhi\WangAiZhi_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangAiZhi\WangAiZhi_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangAiZhi\WangAiZhi_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangAiZhi\WangAiZhi_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangJiaoJiao\WangJiaoJiao_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangJiaoJiao\WangJiaoJiao_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangJiaoJiao\WangJiaoJiao_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangJiaoJiao\WangJiaoJiao_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangJiaoJiao\WangJiaoJiao_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangLiYue\WangLiYue_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangLiYue\WangLiYue_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangLiYue\WangLiYue_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangLiYue\WangLiYue_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangManZhao\WangManZhao_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangManZhao\WangManZhao_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangManZhao\WangManZhao_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangManZhao\WangManZhao_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangManZhao\WangManZhao_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangWeiQun\WangWeiQun_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangWeiQun\WangWeiQun_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangWeiQun\WangWeiQun_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangYongHui\WangYongHui_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangYongHui\WangYongHui_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WangYongHui\WangYongHui_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WuSiMan\WuSiMan_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WuSiMan\WuSiMan_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WuSiMan\WuSiMan_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WuSiMan\WuSiMan_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\WuSiMan\WuSiMan_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\XiaoHuiFang\XiaoHuiFang_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\XiaoHuiFang\XiaoHuiFang_iDose_image.nii.gz
+G:/Program/DATABASE\2023\Gao\XiaoHuiFang\XiaoHuiFang_MonoE_A_image.nii.gz
+G:/Program/DATABASE\2023\Gao\XiaoHuiFang\XiaoHuiFang_MonoE_V_image.nii.gz
+G:/Program/DATABASE\2023\Gao\XiaoHuiFang\XiaoHuiFang_V_image.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangFuJu\HuangFuJu_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangFuJu\HuangFuJu_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangFuJu\HuangFuJu_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangFuJu\HuangFuJu_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangFuJu\HuangFuJu_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangHongYuan\HuangHongYuan_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangHongYuan\HuangHongYuan_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangHongYuan\HuangHongYuan_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangZhiFen\HuangZhiFen_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangZhiFen\HuangZhiFen_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangZhiFen\HuangZhiFen_502_MonoE50keVASpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangZhiFen\HuangZhiFen_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\HuangZhiFen\HuangZhiFen_604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\KangDengWei\KangDengWei_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\KangDengWei\KangDengWei_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\KangDengWei\KangDengWei_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\KeXingYu\KeXingYu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\KeXingYu\KeXingYu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\KeXingYu\KeXingYu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LanFengYang\LanFengYang_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LanFengYang\LanFengYang_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LanFengYang\LanFengYang_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiaoSiCong\LiaoSiCong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiaoSiCong\LiaoSiCong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiaoSiCong\LiaoSiCong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiJinHui\LiJinHui_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiJinHui\LiJinHui_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiJinHui\LiJinHui_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiJinHui\LiJinHui_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiJinHui\LiJinHui_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinHaiYing\LinHaiYing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinHaiYing\LinHaiYing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinHaiYing\LinHaiYing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinJianYing\LinJianYing_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinJianYing\LinJianYing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinJianYing\LinJianYing_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinJianYing\LinJianYing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinJianYing\LinJianYing_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LinYuSheng\LinYuSheng_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\LinYuSheng\LinYuSheng_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\LinYuSheng\LinYuSheng_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\LinYuSheng\LinYuSheng_604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuLuYao\LiuLuYao_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuLuYao\LiuLuYao_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuLuYao\LiuLuYao_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuRuLan\LiuRuLan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuRuLan\LiuRuLan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuRuLan\LiuRuLan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuShiRong\LiuShiRong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuShiRong\LiuShiRong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuShiRong\LiuShiRong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuYiGen\LiuYiGen_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuYiGen\LiuYiGen_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuYiGen\LiuYiGen_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuYiGen\LiuYiGen_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiuYiGen\LiuYiGen_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiWenDi\LiWenDi_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiWenDi\LiWenDi_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiWenDi\LiWenDi_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiWenDi\LiWenDi_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LiWenDi\LiWenDi_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LuoXianHua\LuoXianHua_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LuoXianHua\LuoXianHua_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LuoXianHua\LuoXianHua_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LuoXianHua\LuoXianHua_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Liu\LuoXianHua\LuoXianHua_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XiaoYiPing\1101_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XiaoYiPing\501_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XiaoYiPing\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuLiZhen\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuLiZhen\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuLiZhen\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuXianHong\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuXianHong\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuXianHong\602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuXianHong\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\XuXianHong\704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\302_iDose(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\401_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\404_MonoE40keVASpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\501_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YanBaoYue\505_MonoE40keVVSpectral(4)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangQiuZhi\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangQiuZhi\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangQiuZhi\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYaLan\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYaLan\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYaLan\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYueXia\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYueXia\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YangYueXia\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YaoYuZhen\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YaoYuZhen\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\YaoYuZhen\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhanBingQing\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhanBingQing\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhanBingQing\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLiHua\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLiHua\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLiHua\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLu\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLu\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangLu\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYi\201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYi\501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYi\601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYue\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYue\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhangYue\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhengYingChun\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhengYingChun\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhengYingChun\602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhengYingChun\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhengYingChun\704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouGuoJin\401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouGuoJin\701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouGuoJin\801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouShunMei\301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouShunMei\601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouShunMei\602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouShunMei\701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhouShunMei\704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhuJing\201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhuJing\501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhuJing\502_MonoE50keVASpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhuJing\601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Ni\ZhuJing\604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\BaiMaoAn\BaiMaoAn_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\BaiMaoAn\BaiMaoAn_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\BaiMaoAn\BaiMaoAn_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\BaiMaoAn\BaiMaoAn_604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiJiaYong\CaiJiaYong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiJiaYong\CaiJiaYong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiJiaYong\CaiJiaYong_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiJiaYong\CaiJiaYong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiJiaYong\CaiJiaYong_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiLiZhu\CaiLiZhu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiLiZhu\CaiLiZhu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\CaiLiZhu\CaiLiZhu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenBingFa\ChenBingFa_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenBingFa\ChenBingFa_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenBingFa\ChenBingFa_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenBingFa\ChenBingFa_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenBingFa\ChenBingFa_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenDanYing\ChenDanYing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenDanYing\ChenDanYing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenDanYing\ChenDanYing_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenDanYing\ChenDanYing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenDanYing\ChenDanYing_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenHuiMing\ChenHuiMing_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenHuiMing\ChenHuiMing_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenHuiMing\ChenHuiMing_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenJinCheng\ChenJinCheng_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenJinCheng\ChenJinCheng_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenJinCheng\ChenJinCheng_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiCheng\ChenQiCheng_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiCheng\ChenQiCheng_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiCheng\ChenQiCheng_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiuSong\ChenQiuSong_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiuSong\ChenQiuSong_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenQiuSong\ChenQiuSong_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShengJing\ChenShengJing_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShengJing\ChenShengJing_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShengJing\ChenShengJing_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShengJing\ChenShengJing_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShengJing\ChenShengJing_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShuShu\ChenShuShu_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShuShu\ChenShuShu_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\ChenShuShu\ChenShuShu_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DengGuoAn\DengGuoAn_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DengGuoAn\DengGuoAn_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DengGuoAn\DengGuoAn_702_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DengGuoAn\DengGuoAn_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DengGuoAn\DengGuoAn_804_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DingQiaoLing\DingQiaoLing_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DingQiaoLing\DingQiaoLing_701_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DingQiaoLing\DingQiaoLing_801_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuCuiXian\DuCuiXian_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuCuiXian\DuCuiXian_601_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuCuiXian\DuCuiXian_701_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuXueRu\DuXueRu_401_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuXueRu\DuXueRu_501_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\DuXueRu\DuXueRu_601_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\FangLianWang\FangLianWang_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\FangLianWang\FangLianWang_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\FangLianWang\FangLianWang_502_MonoE50keVASpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\FangLianWang\FangLianWang_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\FangLianWang\FangLianWang_604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\GongXiPei\GongXiPei_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\GongXiPei\GongXiPei_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\GongXiPei\GongXiPei_502_MonoE50keVASpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\GongXiPei\GongXiPei_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\GongXiPei\GongXiPei_604_MonoE50keVVSpectral(3)_1mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\HeLiYun\HeLiYun_201_iDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\HeLiYun\HeLiYun_501_AiDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\HeLiYun\HeLiYun_601_ViDose(3)_2mm_Neck C 2X2.nii.gz
+G:/Program/DATABASE\2023\Xiang\HongMiaoJuan\HongMiaoJuan_301_iDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\HongMiaoJuan\HongMiaoJuan_601_AiDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\HongMiaoJuan\HongMiaoJuan_602_MonoE50keVASpectral(3)_1mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\HongMiaoJuan\HongMiaoJuan_701_ViDose(3)_2mm_Chest normal.nii.gz
+G:/Program/DATABASE\2023\Xiang\HongMiaoJuan\HongMiaoJuan_704_MonoE50keVVSpectral(3)_1mm_Chest normal.nii.gz
