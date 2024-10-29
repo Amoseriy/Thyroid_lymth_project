@@ -11,7 +11,7 @@ def process_nrrd_file(nrrd_path, label_class, label_info_by_person_and_z):
 
     # Extract person's name from the file name
     # print(nrrd_path)
-    person_name = nrrd_path.split('/')[-1].split('_')[0]
+    person_name = nrrd_path.split('/')[-2]
     print(person_name)
     for z_value in unique_z_values:
         label_info = label_info_by_person_and_z.get((person_name, z_value), [])
@@ -47,14 +47,14 @@ def process_folder(folder_path, save_dir):
     label_info_by_person_and_z = {}
     class_labels = ['benign', 'malignant']
     # print(class_labels)
-    for file_name in os.listdir(folder_path):
+    file_path = folder_path.replace('\\', '/').replace('\\\\', '/')
 
-        if file_name.endswith('.nrrd'):
-            # print(file_name)
-            label_class = 0 if '_B' in file_name else 1
-            # print(label_class)
-            nrrd_path = os.path.join(folder_path, file_name)
-            process_nrrd_file(nrrd_path, label_class, label_info_by_person_and_z)
+    if file_path.endswith('.nrrd'):
+        # print(file_name)
+        label_class = 0 if '_B' in file_path else 1
+        # print(label_class)
+        nrrd_path = os.path.join(folder_path, file_path)
+        process_nrrd_file(nrrd_path, label_class, label_info_by_person_and_z)
 
     save_label_info(label_info_by_person_and_z, save_dir)
 

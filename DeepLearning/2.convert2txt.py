@@ -4,13 +4,16 @@
 import os
 from bin.nrrd_to_txt import process_folder
 import shutil
+import json
 
-ori_path = "../../Data/Gao/Label_NRRD/"
 
-output_path = "./TXT/Gao/"
+with open("../path_dict.json", "r") as f:
+    path_dict = json.load(f)
+
+output_path = "G:/Program/DATABASE_TXT"
 os.makedirs(output_path, exist_ok=True)
-
-process_folder(ori_path, output_path)
+for ori_path in path_dict.keys():
+    process_folder(ori_path, output_path)
 
 file_names = os.listdir(output_path)
 
