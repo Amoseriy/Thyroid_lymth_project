@@ -67,7 +67,7 @@ def nii2jpg(nii_path, jpg_path, ww=360, wc=60):
         # 保存图片前先创建文件夹，不然无法保存
         if not os.path.exists(filename):
             os.makedirs(filename)
-        filename = f"{filename}/{series_name}_{i}.jpg"
+        filename = f"{filename}/{patient_name}_{i}.jpg"
         cv2.imwrite(filename, image)
         print(f"{filename} 已保存...")
 
@@ -76,6 +76,6 @@ def nii2jpg(nii_path, jpg_path, ww=360, wc=60):
 
 if __name__ == '__main__':
     # 加载.nii.gz文件
-    nii_file = "./BaiMaoAn_604_MonoE50keV,V+,Spectral(3)_1mm_Neck C+ 2X2.nii.gz"
+    nii_file = "../../DATABASE/2022/Ni/PanQiaoRong/PanQiaoRong_701_A+,iDose(3)_2mm_Chest normal.nii.gz"
     jpg_file = "./JPG/"
     nii2jpg(nii_file, jpg_file)

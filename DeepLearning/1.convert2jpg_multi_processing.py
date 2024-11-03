@@ -20,11 +20,19 @@ def process_file(file_name,  output_base_path):
 
 
 def main():
-    with open("../path_dict.json", "r") as f:
-        path_dict = json.load(f)
-    output_base_path = "G:/Program/DATABASE_JPG"
-    file_names = path_dict.values()
-
+    # with open("../error_path.json", "r") as f:
+    #     path_dict = json.load(f)
+    output_base_path = "./DATABASE_JPG"
+    # file_names = path_dict.values()
+    file_names = [
+"G:\Program\DATABASE\\2020\Xiang\ChenZhiQiang\ChenZhiQiang_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz",
+"G:\Program\DATABASE\\2020\Xiang\GuoYiFan\GuoYiFan_602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz",
+"G:\Program\DATABASE\\2020\Xiang\HongJianMin\HongJianMin_702_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz",
+"G:\Program\DATABASE\\2020\\Ni\SongQiuQin\\602_MonoE45keVlocatorSpectral(3)_1mm_Chest normal.nii.gz",
+"G:\Program\DATABASE\\2020\\Ni\SongWeiNa\\603_MonoE50keVVSpectral(4)_1mm_Neck C 3X3.nii.gz",
+"G:\Program\DATABASE\\2022\Gao\HongShangYou\HongShangYou_705_MonoE40keV,V+,Spectral(4)_1mm_Chest normal.nii.gz",
+"G:\Program\DATABASE\\2023\Gao\WangLiYue\WangLiYue_MonoE_V_image.nii.gz"
+]
     # for file_name in file_names:
     #     process_file(file_name, output_base_path)
 
