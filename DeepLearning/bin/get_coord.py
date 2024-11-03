@@ -28,7 +28,7 @@ def get_coord(file_path):
     image_path = file_path.replace("TXT", "JPG").replace(".txt", ".jpg")
     # print(image_path)
     image = cv2.imread(image_path)
-    img_height, img_width = 224.0, 224.0  # image.shape[:2]
+    img_height, img_width = image.shape[:2]
 
     coord = []  # 定义返回的坐标列表
     for label, x_center, y_center, width, height in annotations:
@@ -49,6 +49,6 @@ def get_coord(file_path):
 
 
 if __name__ == '__main__':
-    path = "../TXT/Xiang/BaiMaoAn/BaiMaoAn121.txt"
+    path = "../../DATABASE_TXT/2023/DengGuoAn/DengGuoAn190.txt"
     co_ord = get_coord(path)
     print(co_ord)
