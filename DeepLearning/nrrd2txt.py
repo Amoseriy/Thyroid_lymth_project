@@ -82,7 +82,7 @@ def classify_txt_files(folder_path):
         os.rename(f"{folder_path}/{txt_file}", new_file_name)
 
 # 设置文件夹路径(根目录即可，递归处理子文件夹)
-input_folder = r"G:\Program\DATABASE\2022\Xiang\CaiXueYing"
+input_folder = r"G:\Program\DATABASE"
 output_label_folder = r"./DATABASE_TXT"
 
 # 创建保存文件夹

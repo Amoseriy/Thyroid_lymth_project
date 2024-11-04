@@ -9,8 +9,10 @@ import os
 """
 
 def process_jpg(file_path):
-    patient_num = file_path.split('/')[-1][:-4]
-    # print(patient_name)
+    patient_num = file_path.split('\\')[-1][:-4]
+    # print("-" * 20)
+    # print(file_path)
+    # print(patient_num)
     # 读取文本文件内容
     with open(file_path, 'r') as file:
         lines = file.readlines()
@@ -57,6 +59,7 @@ def process_jpg(file_path):
         # 保存截取的图片
         if label == 0:
             output_path = f"../DATABASE_DL_JPG/benign/{patient_num}_{label}_{i + 1}.jpg"
+
             print(f"{output_path} 已写入。。。")
             cv2.imwrite(output_path, cropped_image)
         else:

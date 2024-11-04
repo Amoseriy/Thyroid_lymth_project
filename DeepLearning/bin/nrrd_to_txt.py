@@ -5,10 +5,20 @@ import re
 
 
 def process_nrrd_file(nrrd_path, label_class, label_info_by_person_and_z):
+    print(f"开始提取{nrrd_path}")
     data, _ = nrrd.read(nrrd_path)
     unique_labels = np.unique(data)
-    unique_z_values = np.unique(np.where(data > 0)[2])
 
+    # 确定数据的维度
+    if data.ndim == 4:
+        z_slices = data.shape[3]
+    elif data.ndim == 3:
+        z_slices = data.shape[2]
+    else:
+        raise ValueError("Unexpected data dimensions")
+
+    unique_z_values = np.unique(np.where(data > 0)[-1])
+    unique_z_values = unique_z_values[unique_z_values < z_slices]
     # Extract person's name from the file name
     # print(nrrd_path)
     person_name = nrrd_path.split('/')[-2]
@@ -35,7 +45,7 @@ def process_nrrd_file(nrrd_path, label_class, label_info_by_person_and_z):
 
 def save_label_info(label_info_by_person_and_z, save_dir):
     for (person_name, z_value), infos in label_info_by_person_and_z.items():
-        file_path = os.path.join(save_dir, f"{person_name}{z_value}.txt")
+        file_path = os.path.join(save_dir, f"{person_name}_{z_value}.txt")
         if not os.path.exists(save_dir):
             os.makedirs(save_dir)
         with open(file_path, 'w') as f:
@@ -48,7 +58,7 @@ def process_folder(folder_path, save_dir):
     class_labels = ['benign', 'malignant']
     # print(class_labels)
     file_path = folder_path.replace('\\', '/').replace('\\\\', '/')
-
+    print(file_path)
     if file_path.endswith('.nrrd'):
         # print(file_name)
         label_class = 0 if '_B' in file_path else 1
@@ -59,6 +69,8 @@ def process_folder(folder_path, save_dir):
     save_label_info(label_info_by_person_and_z, save_dir)
 
     # Save classes.txt
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
     classes_file_path = os.path.join(save_dir, 'classes.txt')
     with open(classes_file_path, 'w') as file:
         file.write('\n'.join(class_labels))
@@ -66,6 +78,10 @@ def process_folder(folder_path, save_dir):
 
 if __name__ == '__main__':
     # Set folder paths and start processing
-    folder_path = "./DATA/"
+    folder_path = "G:\Program\DATABASE\\2020\Xiang\ChenZhiQiang"
     save_dir = "./TXT/"
-    process_folder(folder_path, save_dir)
+    for root, dirs, files in os.walk(folder_path):
+        for file_name in files:
+            if file_name.endswith('.nrrd'):
+                path = os.path.join(root, file_name)
+                process_folder(path, save_dir)
