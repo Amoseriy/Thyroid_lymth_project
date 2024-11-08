@@ -92,7 +92,7 @@ def process_folder(folder_path, save_label_dir):
     nrrd_files = []
     for root, dirs, files in os.walk(folder_path):
         for file in files:
-            if file.endswith('.nrrd'):
+            if file.endswith('.seg.nrrd'):
                 nrrd_files.append(os.path.join(root, file))
 
     with ThreadPoolExecutor() as executor:

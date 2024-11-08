@@ -5,7 +5,7 @@ import os
 import shutil
 
 root_path1 = "./DATABASE_JPG"
-root_path2 = "./DATABASE_TXT"
+root_path2 = "./DATABASE_RECT"
 
 DICT = {}
 for year in os.listdir(root_path1):
