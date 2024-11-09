@@ -33,6 +33,7 @@ def process_nrrd_file(nrrd_path, label_class):
                 label_info = []
                 for region in regions:
                     min_row, min_col, max_row, max_col = region.bbox
+                    original_label = segment_idx  # 假设这里用segment_idx作为原始标签
                     # 在累积掩膜上标记矩形区域
                     accumulated_mask[min_row:max_row, min_col:max_col] = 1  # 修改2：在累积掩膜上标记矩形区域
                     # 保存边界框信息（可选）
@@ -109,7 +110,7 @@ def classify_txt_files(folder_path):
 
 # 设置文件夹路径(根目录即可，递归处理子文件夹)
 input_folder = r"G:\Program\DATABASE"
-output_label_folder = r"G:\Program\DATABASE_RECT"
+output_label_folder = r"G:\Program\DATABASE_RECT2"
 
 # 创建保存文件夹
 os.makedirs(output_label_folder, exist_ok=True)

@@ -14,13 +14,13 @@ from tqdm import tqdm
 
 # 读取文件字典
 def get_file_dict():
-    with open("../2023.json", "r") as f:
+    with open("../rect_path_dict.json", "r") as f:
         label_dict = json.load(f)
     return label_dict
 
 
 # 获取标签值
-def get_label_numbers(lab_path, img_path):
+def get_label_numbers(lab_path):
     label = sitk.ReadImage(lab_path)
     label_array = sitk.GetArrayFromImage(label)
     unique_labels = np.unique(label_array)
@@ -30,11 +30,12 @@ def get_label_numbers(lab_path, img_path):
 # 特征提取函数
 def extract_features(item, file_dict, param_path):
     try:
-        label_path = item
+        label_path = item.replace("\\", "/")
         img_path = file_dict[item]
         print(f"====================开始提取:{item}====================")
+        # print(label_path)
 
-        patient_id = label_path.split("\\")[-2]
+        patient_id = label_path.split("/")[-2]
         temp = label_path.split("_")
         target = f"_{temp[-2]}_{temp[-1][0]}"
 
@@ -97,7 +98,7 @@ def main():
         features_df.set_index('Label', inplace=True)
 
         # 保存到 CSV
-        csv_file_path = './extracted_features_2023.csv'
+        csv_file_path = './extracted_features_rect.csv'
         features_df.to_csv(csv_file_path)
 
 

@@ -167,6 +167,7 @@ cython_debug/
 /DATABASE_TXT/
 /DATABASE_DL_JPG/
 /DATABASE_RECT/
+/DATABASE_RECT2/
 
 # 忽略 .idea 文件夹
 .idea/
