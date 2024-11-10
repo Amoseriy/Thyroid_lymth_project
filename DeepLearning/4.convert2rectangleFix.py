@@ -10,7 +10,7 @@ import nrrd
 import numpy as np
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from skimage.measure import label, regionprops
-import shutil
+
 
 
 def process_nrrd_file(nrrd_path, label_class):
@@ -95,7 +95,7 @@ def process_folder(folder_path: str, save_dir):
             future.result()
 
 
-def classify_txt_files(folder_path):
+def classify_txt_files(folder_path: str):
     for txt_file in os.listdir(folder_path):
         if txt_file == "classes.txt":
             continue
