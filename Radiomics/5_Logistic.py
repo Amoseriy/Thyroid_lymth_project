@@ -10,11 +10,12 @@ from sklearn.linear_model import LogisticRegression
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 from statkit.decision import NetBenefitDisplay
+from imblearn.over_sampling import SMOTE
 
 # 1.读取数据
-tData_train = pd.read_csv("data/ttest_data.csv", encoding='utf-8-sig')
+tData_train = pd.read_csv("data/RECT_LABEL/rect_ttest_data.csv", encoding='utf-8-sig')
 select_features = []
-with open("./data/五折/features.txt", "r") as f:
+with open("./data/RECT_LABEL/十折/rect_lasso_features.txt", "r") as f:
        for feature in f.readlines():
               select_features.append(str(feature).strip())
 # print(select_features)

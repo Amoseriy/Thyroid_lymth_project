@@ -14,7 +14,7 @@ from tqdm import tqdm
 
 # 读取文件字典
 def get_file_dict():
-    with open("../rect_path_dict.json", "r") as f:
+    with open("./file_4.json", "r") as f:
         label_dict = json.load(f)
     return label_dict
 
@@ -39,7 +39,7 @@ def extract_features(item, file_dict, param_path):
         temp = label_path.split("_")
         target = f"_{temp[-2]}_{temp[-1][0]}"
 
-        lab_num = get_label_numbers(label_path, img_path)
+        lab_num = get_label_numbers(label_path)
 
         label = sitk.ReadImage(label_path)
         image = sitk.ReadImage(img_path)

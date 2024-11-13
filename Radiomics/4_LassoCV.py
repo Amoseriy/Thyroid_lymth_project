@@ -11,7 +11,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LassoCV
 
 # 读取数据
-tData_train = pd.read_csv("./data/ttest_data.csv", encoding='utf-8-sig')
+tData_train = pd.read_csv("./data/RECT_LABEL/rect_ttest_data.csv", encoding='utf-8-sig')
 
 # 准备因变量（标签y）和自变量（特征X）
 y = tData_train['label']
@@ -42,7 +42,7 @@ print("模型中的偏置为:\n", estimator.intercept_)
 features_selected = X.columns[estimator.coef_ != 0]
 
 print("Selected features:", features_selected)
-with open('lasso_features.txt', 'w') as f:
+with open('rect_lasso_features.txt', 'w') as f:
     for feature in features_selected:
         f.write(feature + '\n')
 
