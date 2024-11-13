@@ -172,4 +172,4 @@ cython_debug/
 # 忽略 .idea 文件夹
 .idea/
 
-Radiomics/data/*.csv
+Radiomics/data/*/*.csv
