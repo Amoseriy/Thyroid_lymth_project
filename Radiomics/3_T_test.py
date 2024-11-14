@@ -8,7 +8,7 @@ import pandas as pd
 # levene检验方差是否相等, ttest_ind进行独立样本t检验
 from scipy.stats import levene, ttest_ind
 
-tData = pd.read_csv('./data/rect_FilteredTotalData.csv', low_memory=False)
+tData = pd.read_csv('./data/RECT_LABEL/rect_FilteredTotalData.csv', low_memory=False)
 # 确保数据中只有数值类型
 for column_name in tData.columns[1:]:
     tData[column_name] = pd.to_numeric(tData[column_name], errors='coerce')
@@ -40,4 +40,4 @@ if 'label' not in columns_index:
 
 # 在分割的df中选取t检验筛选后的特征列，并将之组合为一个csv文件
 df_filtered = pd.concat([dataframes[0][columns_index], dataframes[1][columns_index]])
-df_filtered.to_csv('./data/rect_ttest_data.csv', header=True, index=False, encoding="utf_8_sig")
+df_filtered.to_csv('./data/RECT_LABEL/rect_ttest_data.csv', header=True, index=False, encoding="utf_8_sig")

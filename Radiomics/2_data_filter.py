@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
-original_csv = pd.read_csv("./data/rect_combined_total_features.csv", low_memory=False)
+original_csv = pd.read_csv("./data/RECT_LABEL/rect_combined_total_features.csv", low_memory=False)
 # 读取提取的CSV特征数据
 # 根据Label列的最后一个字符进行筛选和保存
 benign_data = original_csv[original_csv['Label'].str.endswith('_B')]
@@ -30,7 +30,7 @@ mal_data = mal_data.drop(mal_cols, axis=1)
 
 # 再合并成一个新的csv文件。
 total_data = pd.concat([benign_data, mal_data])
-total_data.to_csv('./data/rect_FilteredTotalData.csv', index=False)
+total_data.to_csv('./data/RECT_LABEL/rect_FilteredTotalData.csv', index=False)
 
 # 简单查看数据的分布
 

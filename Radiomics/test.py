@@ -10,9 +10,9 @@ import radiomics
 from bin import resample_file
 from radiomics import featureextractor
 
-file_paths = ["./data/extracted_features_rect1.csv", "./data/extracted_features_rect2.csv",
-              "./data/extracted_features_rect3.csv", "./data/extracted_features_rect4.csv"]
+file_paths = ["./data/RECT_LABEL/extracted_features_rect1.csv", "./data/RECT_LABEL/extracted_features_rect2.csv",
+              "./data/RECT_LABEL/extracted_features_rect3.csv", "./data/RECT_LABEL/extracted_features_rect4.csv",]
 
 dfs = [pd.read_csv(file) for file in file_paths]
 combined_df = pd.concat(dfs, ignore_index=True)
-combined_df.to_csv('rect_combined_total_features.csv', index=False)
+combined_df.to_csv('./data/RECT_LABEL/rect_combined_total_features.csv', index=False)
