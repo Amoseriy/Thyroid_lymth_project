@@ -27,7 +27,7 @@ X_test = scaler.transform(X_test)
 
 # 创建Lasso回归模型
 # 初始化LassoCV，设置5折交叉验证
-estimator = LassoCV(cv=5, max_iter=100000, random_state=0)
+estimator = LassoCV(cv=10, max_iter=100000, random_state=0)
 
 # 训练模型
 estimator.fit(X_train, y_train)

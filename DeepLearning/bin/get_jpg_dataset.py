@@ -27,7 +27,8 @@ class MyDataset(Dataset):
         # 对图像进行预处理，转换成tensor
         if self.transform:
             image = self.transform(images)
-
+        else:
+            image = images
         # 获取图像label，并转换成tensor
         labels = torch.tensor(self.labels[idx], dtype=torch.int64)
         return image, labels
@@ -47,18 +48,18 @@ def get_my_dataset(ori_path):
     be_images = os.listdir(be_path)
     for be_image in be_images:
         be_image_path = os.path.join(be_path, be_image).replace("\\", "/")
-        label = int(0)
+        b_label = int(0)
 
         image_paths.append(be_image_path)
-        label_list.append(label)
+        label_list.append(b_label)
 
     # 写入malignant图片路径和label
     mal_images = os.listdir(mal_path)
     for mal_image in mal_images:
         mal_image_path = os.path.join(mal_path, mal_image).replace("\\", "/")
-        label = int(1)
+        m_label = int(1)
         image_paths.append(mal_image_path)
-        label_list.append(label)
+        label_list.append(m_label)
 
     # 定义图像的预处理
     transform = transforms.Compose([

@@ -25,7 +25,7 @@ def get_three_d_data(three_d_data):
             # accumulated_mask = np.zeros_like(z_slice_data, dtype=data.dtype)
             for region in regions:
                 min_row, min_col, max_row, max_col = region.bbox
-                region_label_num = region.label
+                # region_label_num = region.label
                 sub_matrix = z_slice_data[min_row:max_row, min_col:max_col]
                 # 统计bbox内的非0像素值
                 non_zero_values = sub_matrix[sub_matrix != 0]
@@ -80,16 +80,16 @@ def process_file(nrrd_path: str, input_root: str, output_root: str):
     print(f"{output_path} has been written.")
 
 
-def process_folder(input_folder: str, output_folder: str):
+def process_folder(input_folders: str, output_folder: str):
     nrrd_files = []
-    for root, dirs, files in os.walk(input_folder):
+    for root, dirs, files in os.walk(input_folders):
         for file in files:
             if file.endswith('.seg.nrrd'):
                 nrrd_files.append(os.path.join(root, file))
 
     with ThreadPoolExecutor() as executor:
         futures = [
-            executor.submit(process_file, nrrd_path, input_folder, output_folder)
+            executor.submit(process_file, nrrd_path, input_folders, output_folder)
             for nrrd_path in nrrd_files
         ]
         for future in as_completed(futures):
@@ -110,15 +110,16 @@ def classify_txt_files(folder_path:str):
             os.rename(old_file_path, new_file_path)
 
 
-# 设置文件夹路径(根目录即可，递归处理子文件夹)
-input_folder = r"G:\Program\DATABASE"
-output_label_folder = r"G:\Program\DATABASE_RECT"
+if __name__ == '__main__':
+    # 设置文件夹路径(根目录即可，递归处理子文件夹)
+    input_folder = r"G:\Program\DATABASE"
+    output_label_folder = r"G:\Program\DATABASE_RECT"
 
-# 创建保存文件夹
-os.makedirs(output_label_folder, exist_ok=True)
+    # 创建保存文件夹
+    os.makedirs(output_label_folder, exist_ok=True)
 
-# 处理文件夹
-process_folder(input_folder, output_label_folder)
-# classify_txt_files(output_label_folder)
+    # 处理文件夹
+    process_folder(input_folder, output_label_folder)
+    # classify_txt_files(output_label_folder)
 
 
