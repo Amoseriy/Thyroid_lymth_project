@@ -41,7 +41,7 @@ def nii2jpg(nii_path, jpg_path, ww=360, wc=60):
 
     patient_name = nii_path.split('/')[-2]
     # research_name = nii_path.split("/")[-3]
-    year = nii_path.split("/")[-4]
+    year = nii_path.split("/")[-3]
     # for-else结构：当for循环正常结束（即没有通过break退出循环）时，else块的代码会被执行。
     # 如果在循环中遇到break语句，则else块不会被执行。
     for vein_image_type in VEIN_IMAGE_TYPE:

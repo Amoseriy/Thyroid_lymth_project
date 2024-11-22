@@ -20,11 +20,11 @@ def process_file(file_name,  output_base_path):
 
 
 def main():
-    # with open("../error_path.json", "r") as f:
-    #     path_dict = json.load(f)
-    output_base_path = "./DATABASE_JPG"
-    # file_names = path_dict.values()
-    file_names = ["G:\Program\DATABASE\\2021\Gao\HuangChangKun\HuangChangKun_MonoE_V_image.nii.gz"]
+    with open("../label_img_path_dict.json", "r") as f:
+        path_dict = json.load(f)
+    output_base_path = "./DATABASE_JPG2"
+    file_names = path_dict.values()
+    # file_names = ["G:\Program\DATABASE\\2021\Gao\HuangChangKun\HuangChangKun_MonoE_V_image.nii.gz"]
     # for file_name in file_names:
     #     process_file(file_name, output_base_path)
 
