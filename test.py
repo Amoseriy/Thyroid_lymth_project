@@ -5,21 +5,31 @@ import SimpleITK as sitk
 import numpy as np
 import os
 import nrrd
+import json
 
-# 设置要读取的目录路径
-directory_path = r"G:/Program/DATABASE"
+with open("./label_img_path_dict.json", "r") as f:
+    label_img_path_dict = json.load(f)
 
-# 遍历目录及其子目录中的所有文件
-for root, dirs, files in os.walk(directory_path):
-    for file in files:
-        if file.endswith('.seg.nrrd'):
-            file_path = os.path.join(root, file)
-            # print(f"Processing file: {file_path}")
-            dim = sitk.ReadImage(file_path).GetDimension()
-            if dim == 4:
-                print(f"Processing file: {file_path}")
-            else:
-                continue
 
+root_dir = r'G:\Program\DATABASE'
+output_dir = r'G:\Program\DATABASE_PNG'
+for year in os.listdir(root_dir):
+    year_dir = os.path.join(root_dir, year)
+    for patient_name in os.listdir(year_dir):
+        patient_dir = os.path.join(year_dir, patient_name)
+        label_imgs_list = []
+        # print(f"{'=' * 20} {patient_name} {'=' * 20}")
+        for label_path in os.listdir(patient_dir):
+            if label_path.endswith('.nrrd'):
+                label_path = os.path.join(patient_dir, label_path)
+                # print(f"Processing {label_path}")
+                try:
+                    img_path = label_img_path_dict[label_path]
+                    print(f"{label_path} -> {img_path}")
+                except KeyError:
+                    print("=" * 50)
+                    print(f"Warning: {label_path} not found in label_img_path_dict.json")
+                    print("=" * 50)
+                    continue
 
 
