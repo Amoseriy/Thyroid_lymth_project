@@ -29,6 +29,8 @@ def plot(imgs, row_title=None, **imshow_kwargs):
                 else:
                     raise ValueError(f"Unexpected target type: {type(target)}")
             img = F.to_image(img)
+            # print(boxes)
+            # print(labels)
             if img.dtype.is_floating_point and img.min() < 0:
                 # Poor man's re-normalization for the colors to be OK-ish. This
                 # is useful for images coming out of Normalize()

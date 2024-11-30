@@ -72,6 +72,31 @@ def get_label_img(label_path, img_path):
         slice_image_itk = image_array # (512, 512, 194)
         return slice_image_itk
 
+
+def save_label_img(label_imgs_list, output_dir, year, patient_name, classify):
+    if len(label_imgs_list) == 0:
+        return None
+    # 将列表转换为NumPy数组堆栈
+    mask_stack = np.stack(label_imgs_list, axis=0)
+    # 按照第一个新创建的维度（这里是指第0个维度）求和
+    sum_masks = np.sum(mask_stack, axis=0)
+    # print(f"{sum_masks.shape = }")
+
+    slice_image_itk = sitk.GetImageFromArray(sum_masks)
+    slice_image_itk = sitk.Cast(slice_image_itk, sitk.sitkUInt8)  # 转换为uint8类型, 便于保存为png格式
+    # print(f"{slice_image_itk.GetSize() = }")
+    for i in range(slice_image_itk.GetSize()[2]):
+        if classify == "benign":
+            output_file_path = Path(output_dir) / f'{year}/{patient_name}/benign/{patient_name}_{i}.png'
+        else:
+            output_file_path = Path(output_dir) / f'{year}/{patient_name}/malignant/{patient_name}_{i}.png'
+        if not output_file_path.parent.exists():
+            output_file_path.parent.mkdir(parents=True)
+        # print(output_file_path)
+        sitk.WriteImage(slice_image_itk[:, :, i], str(output_file_path))
+        print(f"Saved {output_file_path}")
+
+
 if __name__ == '__main__':
     root_dir = r'G:\Program\DATABASE'
     output_dir = r'G:\Program\DATABASE_PNG'
@@ -79,7 +104,8 @@ if __name__ == '__main__':
         year_dir = os.path.join(root_dir, year)
         for patient_name in os.listdir(year_dir):
             patient_dir = os.path.join(year_dir, patient_name)
-            label_imgs_list = []
+            label_imgs_list_benign = []
+            label_imgs_list_malignant = []
             print(f"{'=' * 20} {patient_name} {'=' * 20}")
             for label_path in os.listdir(patient_dir):
                 if label_path.endswith('.nrrd'):
@@ -87,25 +113,13 @@ if __name__ == '__main__':
                     print(f"Processing {label_path}")
                     img_path = label_img_path_dict[label_path]
                     label_img = get_label_img(label_path, img_path)
-                    label_imgs_list.append(label_img)
+                    if "_B.seg.nrrd" in label_path:
+                        label_imgs_list_benign.append(label_img)
+                    else:
+                        label_imgs_list_malignant.append(label_img)
                     # print(f"Processing {label_path}")
-            print(f"{[img.shape for img in label_imgs_list]}")
-            # 将列表转换为NumPy数组堆栈
-            mask_stack = np.stack(label_imgs_list, axis=0)
-            # 按照第一个新创建的维度（这里是指第0个维度）求和
-            sum_masks = np.sum(mask_stack, axis=0)
-            # print(f"{sum_masks.shape = }")
-
-            slice_image_itk = sitk.GetImageFromArray(sum_masks)
-            slice_image_itk = sitk.Cast(slice_image_itk, sitk.sitkUInt8)  # 转换为uint8类型, 便于保存为png格式
-            # print(f"{slice_image_itk.GetSize() = }")
-            for i in range(slice_image_itk.GetSize()[2]):
-                output_file_path = Path(output_dir) / f'{year}/{patient_name}/{patient_name}_{i}.png'
-                if not output_file_path.parent.exists():
-                    output_file_path.parent.mkdir(parents=True)
-                # print(output_file_path)
-                sitk.WriteImage(slice_image_itk[:, :, i], str(output_file_path))
-                print(f"Saved {output_file_path}")
+            save_label_img(label_imgs_list_benign, output_dir, year, patient_name, "benign")
+            save_label_img(label_imgs_list_malignant, output_dir, year, patient_name, "malignant")
 
 
 

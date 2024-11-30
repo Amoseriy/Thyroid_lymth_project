@@ -1,0 +1,46 @@
+{
+    "info": {},
+    "licenses": [],
+    "images": [
+        {
+            "id": 1,
+            "file_name": "G:/Program/DATABASE_JPG/2022/XieYaTing/XieYaTing_101.jpg",
+            "width": 512,
+            "height": 512
+        }
+        ],
+    "annotations": [
+    {
+        "id": 1,
+        "image_id": 1,
+        "category_id": 1,
+        "segmentation": [
+            [
+                355,
+                162,
+                355,
+                167,
+                356,
+                168,
+                356,
+                169,
+                358,
+                169,
+                358,
+                165,
+                357,
+                164,
+                357,
+                162
+            ]
+        ],
+        "area": 17.0,
+        "bbox": [
+            355,
+            162,
+            4,
+            8
+        ],
+        "iscrowd": 0
+    }]
+}
