@@ -222,7 +222,7 @@ def main():
     test_loader = DataLoader(test_dataset, batch_size=28, shuffle=False, num_workers=0)
 
     model = torchvision.models.resnext50_32x4d(weights=None, progress=True)
-    # 假设你需要将输出类别数改为 2
+    # 将输出类别数改为 2
     num_classes = 2
     model.fc = torch.nn.Linear(model.fc.in_features, num_classes)
     model.to(DEVICE)

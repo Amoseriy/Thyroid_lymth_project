@@ -9744,7 +9744,6 @@
         "G:/Program/DATABASE_PNG/2021/HeShaoYan/benign/HeShaoYan_118.png"
     ],
     "G:/Program/DATABASE_JPG/2022/XieYaTing/XieYaTing_99.jpg": [
-        "G:/Program/DATABASE_PNG/2022/XieYaTing/benign/XieYaTing_99.png",
         "G:/Program/DATABASE_PNG/2022/XieYaTing/malignant/XieYaTing_99.png"
     ],
     "G:/Program/DATABASE_JPG/2021/HuangHui/HuangHui_80.jpg": [
@@ -14813,8 +14812,7 @@
         "G:/Program/DATABASE_PNG/2023/PanYi/benign/PanYi_74.png"
     ],
     "G:/Program/DATABASE_JPG/2023/HuangFuJu/HuangFuJu_200.jpg": [
-        "G:/Program/DATABASE_PNG/2023/HuangFuJu/benign/HuangFuJu_200.png",
-        "G:/Program/DATABASE_PNG/2023/HuangFuJu/malignant/HuangFuJu_200.png"
+        "G:/Program/DATABASE_PNG/2023/HuangFuJu/benign/HuangFuJu_200.png"
     ],
     "G:/Program/DATABASE_JPG/2021/HuangLiHua/HuangLiHua_103.jpg": [
         "G:/Program/DATABASE_PNG/2021/HuangLiHua/benign/HuangLiHua_103.png"
@@ -40424,8 +40422,7 @@
         "G:/Program/DATABASE_PNG/2021/ChengSiMin/malignant/ChengSiMin_173.png"
     ],
     "G:/Program/DATABASE_JPG/2023/ZhangLu/ZhangLu_87.jpg": [
-        "G:/Program/DATABASE_PNG/2023/ZhangLu/benign/ZhangLu_87.png",
-        "G:/Program/DATABASE_PNG/2023/ZhangLu/malignant/ZhangLu_87.png"
+        "G:/Program/DATABASE_PNG/2023/ZhangLu/benign/ZhangLu_87.png"
     ],
     "G:/Program/DATABASE_JPG/2021/LaiLuNa/LaiLuNa_116.jpg": [
         "G:/Program/DATABASE_PNG/2021/LaiLuNa/benign/LaiLuNa_116.png"
