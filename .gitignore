@@ -176,3 +176,4 @@ cython_debug/
 /DeepLearning/saved_models/*
 /DATABASE_PNG/
 /DATABASE_PNG2/
+/DATABASE_YOLO/
