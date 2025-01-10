@@ -16,7 +16,7 @@ from torch.utils.data import DataLoader, random_split
 from torchvision.transforms import v2
 
 from torch.utils.tensorboard import SummaryWriter
-from torchvision.models import ResNeXt50_32X4D_Weights
+from torchvision.models import ResNeXt50_32X4D_Weights, VGG16_Weights, vgg16
 
 
 from torchmetrics import F1Score, Recall, Precision, Accuracy, ConfusionMatrix, Specificity
@@ -32,13 +32,13 @@ logger.remove()  # 清除默认的日志记录器，避免重复记录
 # 配置日志记录器，将日志输出到文件和控制台。
 # sys.stderr 用于输出到控制台，即时显示，可交互，可彩色，临时性
 logger.add(sys.stderr, format="{time} {level} {message}", level="INFO", colorize=True)
-logger.add("./logs/training.log", format="{time} {level} {message}", level="INFO", colorize=False)  # 文件不能彩色输出
+logger.add("./logs/vgg16_train.log", format="{time} {level} {message}", level="INFO", colorize=False)  # 文件不能彩色输出
 
-writer = SummaryWriter('runs/classifier_resnext50_32x4d')
+writer = SummaryWriter('runs/classifier_VGG16')
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-EPOCHS = 100
+EPOCHS = 500
 
 
 def get_img_mean_std(root_dir, img_mode) -> tuple:
@@ -161,6 +161,7 @@ def test(dataloader, model, loss_fn, epoch):
             all_labels.append(y)
 
     test_loss /= num_batches
+    accuracy_score = correct / size
     correct /= size
     logger.info(f"Test Error:  Accuracy: {(100 * correct):>0.1f}%, Avg loss: {test_loss:>8f} ")
 
@@ -184,6 +185,8 @@ def test(dataloader, model, loss_fn, epoch):
     # 重置评价指标
     f1.reset(), recall.reset(), precision.reset(), accuracy.reset(), confusion_matrix.reset(), specificity.reset()
 
+    return test_loss, accuracy_score
+
 
 def main():
     ROOT_PATH = "../DATABASE_DL_JPG"
@@ -191,6 +194,10 @@ def main():
     img_mean, img_std = [0.45615792, 0.45615792, 0.45615792], [0.27909806, 0.27909806, 0.27909806]
     print("Mean:", img_mean)  # Mean: 0.45615792
     print("Std:", img_std)  # Std: 0.27909806
+
+    # 初始化变量以跟踪最佳验证损失和准确率
+    best_val_loss = float('inf')  # 记录最低的验证损失
+    best_val_accuracy = 0.0  # 记录最高的验证准确率
 
     # 定义transforms
     transform = v2.Compose([
@@ -218,17 +225,20 @@ def main():
 
     # 创建数据加载器
 
-    train_loader = DataLoader(train_dataset, batch_size=28, shuffle=True, num_workers=0)
-    test_loader = DataLoader(test_dataset, batch_size=28, shuffle=False, num_workers=0)
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, num_workers=4)
+    test_loader = DataLoader(test_dataset, batch_size=64, shuffle=False, num_workers=4)
 
-    model = torchvision.models.resnext50_32x4d(weights=None, progress=True)
+    # model = torchvision.models.resnext50_32x4d(weights=ResNeXt50_32X4D_Weights, progress=True)
+    model = vgg16(weights=VGG16_Weights, progress=True)
     # 将输出类别数改为 2
     num_classes = 2
-    model.fc = torch.nn.Linear(model.fc.in_features, num_classes)
+    # model.fc = torch.nn.Linear(model.fc.in_features, num_classes)  # resnet50_32x4d 输出类别数为 1000，这里改为 2
+    model.classifier[6] = torch.nn.Linear(model.classifier[6].in_features, num_classes)  # vgg16 输出类别数为 1000，这里改为 2
     model.to(DEVICE)
 
     loss_fn = torch.nn.CrossEntropyLoss()
     optimizer = torch.optim.SGD(model.parameters(), lr=0.001, momentum=0.9)
+    scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=50, gamma=0.1)
 
     # 使用tensorboard记录模型结构
     dataiter = iter(train_loader)
@@ -243,14 +253,22 @@ def main():
     for t in range(EPOCHS):
         logger.info(f"{'=' * 10} Epoch {t + 1} {'=' * 10}")
         train(train_loader, test_loader,model, loss_fn, optimizer, t)
-        test(test_loader, model, loss_fn, t)
+        val_loss, val_accuracy = test(test_loader, model, loss_fn, t)
 
-        # 保存模型参数
-        save_path = "./saved_models/"
-        if not os.path.exists(save_path):
-            os.mkdir(save_path)
-        torch.save(model.state_dict(), f"{save_path}model_{t + 1}.pth")
-        logger.info(f"Saved PyTorch Model State to {save_path}model{t + 1}.pth")
+        # 保存最新模型参数
+        latest_model_path = "./saved_models/vgg16/vgg16_latest_model.pth"
+        os.makedirs(os.path.dirname(latest_model_path), exist_ok=True)
+        torch.save(model.state_dict(), latest_model_path)
+        logger.info(f"Saved latest model parameters to {latest_model_path}")
+
+        # 动态保存最佳模型参数
+        if val_accuracy > best_val_accuracy:  # 或者使用 val_loss < best_val_loss
+            best_val_accuracy = val_accuracy
+            best_model_path = "./saved_models/vgg16/vgg16_best_model.pth"
+            torch.save(model.state_dict(), best_model_path)
+            logger.info(f"Saved best model parameters to {best_model_path} with val_loss: {val_loss:.4f}")
+
+        scheduler.step()  # 更新学习率
 
     logger.info("Done!")
     writer.flush()
